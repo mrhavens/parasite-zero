@@ -6,25 +6,25 @@
 - **Local Repo Path**: `/mnt/c/fieldcraft/parasite-zero`
 - **Remote Label**: `local`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-07-14 11:23:38`
+- **Repo Created**: `2025-07-14 11:27:47`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-07-14 11:23:38`
-- **Last Commit SHA**: `f9de9dc148b6a98d9e5f747460df76af37663c9c`
-- **Last Commit Message**: `Copied /mnt/c/fieldcraft/parasite-zero/docs/GITFIELD.md.sig.4E27D37C358872BF to docs at 2025-07-14T16:13:48Z`
+- **This Commit Timestamp**: `2025-07-14 11:27:47`
+- **Last Commit SHA**: `a4cd3dc32c12f09e4e641fd8f71369d31f2a9c2e`
+- **Last Commit Message**: `Generated docs/integrity.sha256 at 2025-07-14T16:13:48Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Mon Jul 14 11:23:26 2025 -0500`
+- **Last Commit Date**: `Mon Jul 14 11:27:38 2025 -0500`
 - **This Commit URL**: `file:///home/mrhavens/git-local-repos/git-sigil.git`
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `47`
-- **Tracked Files**: `51`
+- **Total Commits**: `63`
+- **Tracked Files**: `55`
 - **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `None`
 
@@ -48,7 +48,7 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 1 hour, 14 minutes`
+- **System Uptime**: `up 1 hour, 19 minutes`
 - **MAC Address**: `00:15:5d:dd:c8:3a`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
